@@ -1,0 +1,36 @@
+[
+  {
+    "id": "8f0c226e-a5fb-44f6-82b2-2f36739d5cb4",
+    "roles": [
+      "admin", "editor", "user"
+    ],
+    "username": "David",
+    "password": "$2b$10$1vXB17d5NadsDStpy4QppOCU8VzK/3irtZoJu7QGQQqyAc4BHsQ22"
+  },
+
+  {
+    "id": "b7d37f9e-d335-4ff4-a0b9-1687b51d399d",
+    "roles": [
+      "admin", "editor"
+    ],
+    "username": "James",
+    "password": "$2b$10$uWy8l7ZxfkP5bDI5XidHPOu2AOIqByodGbGaQtZqOZs.FgpmCE7i."
+  },
+
+  {
+    "id": "ca4ee758-2993-470c-9b96-7e4bc384d326",
+    "roles": [
+      "admin"
+    ]
+    },
+
+      {
+    "id": "cf09ea2e-6a4f-42b8-b583-a473bc3f05e2",
+    "roles": [
+      "user"
+    ],
+    "username": "Jamie",
+    "password": "$2b$10$35wXnN.xoXx2Jz6EN3xQQeWl.qJYUqngxoPFHuf6mlnua/p7ZRpT2",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkphbWllIiwiaWF0IjoxNjk1ODAzNDQ0LCJleHAiOjE2OTU4ODk4NDR9.dOOjAAEbc0Hbfwy3omORbrsU3GqB7_hnqV6vZOiCQuc"
+  }
+]
